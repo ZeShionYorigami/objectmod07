@@ -3,8 +3,8 @@
     "servers": [
         "https://mirrors.thpatch.net/poorestgoddess18/object07/"
     ],
-     "object07": "Replaces characters with object variants!",
+     "objectedition": "Replaces characters with object variants!",
     "dependencies": [
-        "repos/nmlgc/base_tsa/"
+        "nmlgc/base_tsa/"
     ]
 }

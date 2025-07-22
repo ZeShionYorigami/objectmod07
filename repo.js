@@ -2,7 +2,7 @@
     "contact": "doublepeater",
     "id": "poorestgoddess18",
     "patches": {
-        "object07": "Replaces characters with object variants!",
+        "objectedition": "Replaces characters with object variants!",
     },
     "servers": [
         "https://mirrors.thpatch.net/poorestgoddess18/"
