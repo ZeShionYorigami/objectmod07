@@ -1,5 +1,5 @@
 {
-    "id": "object07",
+    "id": "objectedition",
     "servers": [
         "https://mirrors.thpatch.net/poorestgoddess18/objectedition/"
     ],
